@@ -1,4 +1,4 @@
-# Credential Risk Assessment Proyect
+# Credential Risk Assessment Project
 ## Introduction
 This project is a web application that allows users to assess the risk of a credential based on the information obtained from Telegram, which is username, password, channel and file. The application uses a machine learning model to predict the risk of the credential. The model was trained with a dataset of credentials and their respective risk level. The model was trained using the Kernel Ridge algorithm. The application was developed using the Streamlit library. 
 
